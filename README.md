@@ -14,7 +14,7 @@
 
 <ul>
   <li>Monete illimitate.</li>
-  <li>Gemma illimitate.</li>
+  <li>Gemme illimitate.</li>
   <li>Energia illimitata.</li>
   <li>Proiettili illimitati.</li>
   <li>Armi premium illimitate.</li>
